@@ -1,0 +1,7 @@
+Y:\New folder\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+Y:\New folder\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+Y:\New folder\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+Y:\New folder\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csprojAssemblyReference.cache
+Y:\New folder\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+Y:\New folder\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+Y:\New folder\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.pdb
